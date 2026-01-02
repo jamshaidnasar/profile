@@ -1,80 +1,99 @@
-# 👋 Hi, I'm Jamshaid Nasar
+# 👋 Hi, I’m **Jamshaid Nasar**
 
-**Full-Stack Engineer (Backend-focused) | Remote (EU → US overlap)**
+### **Backend-Focused Full-Stack Engineer**
 
-I’m a full-stack engineer focused on building **clean, reliable, production-ready web applications**. I work mainly on backend APIs and systems, while also being comfortable delivering complete end-to-end products with modern frontends.
+**Remote · EU → US Time Overlap**
 
-I’m preparing for **full-time remote work with U.S. companies**, available for **evening hours (EU) with strong U.S. time overlap**.
+I’m a backend-focused full-stack engineer who builds **clean, reliable, production-ready web applications**.
+
+My strength is designing **robust backend systems and APIs**, while still being fully capable of delivering **end-to-end products** with modern frontends. I care deeply about **code quality, clarity, and long-term maintainability**.
+
+I’m preparing for **full-time remote work with U.S. companies**, and I’m available during **EU evenings with strong U.S. overlap**.
 
 ---
 
-## 🧠 What I Do
+## 🧠 What I Do Best
 
-* Build **REST APIs** and backend services
-* Design **scalable application architectures**
-* Develop **modern web frontends**
-* Ship projects with clean code, documentation, and tests
+* Build **RESTful APIs** and backend services
+* Design **scalable and maintainable architectures**
+* Work with **databases and data modeling**
+* Develop **modern, responsive web frontends**
+* Ship projects with **clean structure, documentation, and tests**
 
-I value **clarity, reliability, and ownership** over hype.
+I value **ownership, reliability, and real-world engineering** over hype.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend**
+### **Backend**
 
 * Python (Flask)
 * Node.js (Express)
-* API design, authentication, integrations
+* REST API design
+* Authentication & authorization
+* Third-party integrations
 
-**Frontend**
+### **Frontend**
 
 * JavaScript (ES6+)
 * React
 * HTML5, CSS3
+* API-driven UI development
 
-**Systems / Low-level (working knowledge)**
+### **Databases**
+
+* SQL fundamentals
+* SQLite
+* MySQL
+* Database design & migrations
+* Query optimization (basics)
+
+### **DevOps & Systems**
+
+* Linux (daily usage)
+* Git & GitHub (advanced workflows)
+* Environment configuration
+* Deployment basics
+* CI/CD fundamentals
+* Docker (working knowledge)
+* Cloud & server basics
+
+### **Low-Level / Systems (working knowledge)**
 
 * Rust
 * C++
-
-**Tools & Workflow**
-
-* Git & GitHub
-* Linux
-* REST, JSON
-* Async & remote collaboration
 
 ---
 
 ## 📌 Projects
 
-I focus on **real, practical projects** that solve problems and behave like real products.
+I focus on **practical, real-world projects** that behave like real products.
 
 Each project includes:
 
-* Clear README
+* Clear and honest README
 * Problem → solution explanation
-* Clean structure
-* Production-style code
+* Clean folder structure
+* Production-style code practices
 
-👉 Check my repositories below.
+👉 Explore my repositories below.
 
 ---
 
 ## 🌍 Work Preferences
 
-* 🌐 Remote (global)
-* ⏰ Evening availability (EU) → U.S. time overlap
+* 🌐 Fully remote (global)
+* ⏰ EU evenings → U.S. time overlap
 * 💼 Full-time or contract
-* 🧩 Small teams & startups
+* 🧩 Small teams, startups, and product-focused companies
 
 ---
 
 ## 📫 Contact
 
-* GitHub: [https://github.com/JamshaidNasar](https://github.com/JamshaidNasar)
+* GitHub: **[https://github.com/JamshaidNasar](https://github.com/JamshaidNasar)**
 
 ---
 
-> I’m focused on delivering value through code, not titles.
+> I focus on delivering real value through code — not titles, buzzwords, or shortcuts.
