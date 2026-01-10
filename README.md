@@ -8,14 +8,7 @@
 
 <p align="center" style="margin-top: 25px;">
   <img
-    src="https://skillicons.dev/icons?i=python,flask,nodejs,express,rust,cpp,html,css,js,ts,react,mysql,sqlite,git"
-    style="height: 90px; margin: 8px;"
-  />
-</p>
-
-<p align="center" style="margin-top: 0px;">
-  <img
-    src="https://skillicons.dev/icons?i=cloudflare,workers,supabase,github,githubactions,vercel,npm,postman,visualstudio,bevy,cmake,tauri,docker,linux"
+    src="https://skillicons.dev/icons?i=html,css"
     style="height: 90px; margin: 8px;"
   />
 </p>
