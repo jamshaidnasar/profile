@@ -8,7 +8,7 @@
 
 <p align="center" style="margin-top: 25px;">
   <img
-    src="https://skillicons.dev/icons?i=html,css,js,python,rust,cpp"
+    src="https://skillicons.dev/icons?i=html,css,js,python,rust,cpp,Fortran,c,java"
     style="height: 90px; margin: 8px;"
   />
 </p>
